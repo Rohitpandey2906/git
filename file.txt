@@ -1,1 +1,1 @@
-"/n"
+"File going to be stashed"
